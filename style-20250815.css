@@ -3,10 +3,10 @@
 /*視窗背景色設定*/
 body{    
     /*background-color: #fbf9cc;
-    background-image: url(../images/bg.png);
+    background-image: url(./images/bg.png);
     background-repeat: repeat-x; */
 
-    background: #fbf9cc url(../images/bg.png) repeat-x;
+    background: #fbf9cc url(./images/bg.png) repeat-x;
 
     /* background-position: right top; */
     /* background-position: 50px 50px; */
